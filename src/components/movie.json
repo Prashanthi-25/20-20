@@ -1,0 +1,4116 @@
+{
+   "Movies":[
+      {
+         "Movie Name":"10 Things I Hate About You",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1999,
+         "Genre":"Romance",
+         "Duration":117
+      },
+      {
+         "Movie Name":"1917",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":2019,
+         "Genre":"War",
+         "Duration":119
+      },
+      {
+         "Movie Name":"2001:A Space Odyssey",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":1968,
+         "Genre":"Science Fiction",
+         "Duration":164
+      },
+      {
+         "Movie Name":"21 Bridges",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Thriller",
+         "Duration":99
+      },
+      {
+         "Movie Name":"27 Dresses",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2008,
+         "Genre":"Romance",
+         "Duration":111
+      },
+      {
+         "Movie Name":"28 Days Later",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2003,
+         "Genre":"Thriller",
+         "Duration":113
+      },
+      {
+         "Movie Name":"5 Centimetres per second",
+         "Language":"Japanese",
+         "Country":"Japan",
+         "Year":2007,
+         "Genre":"Animation",
+         "Duration":65
+      },
+      {
+         "Movie Name":"500 Days Of Summer",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2009,
+         "Genre":"Romance",
+         "Duration":95
+      },
+      {
+         "Movie Name":"A Beautiful Day In The Neighbourhood",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":109
+      },
+      {
+         "Movie Name":"A Beautiful Mind",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2001,
+         "Genre":"Drama",
+         "Duration":140
+      },
+      {
+         "Movie Name":"A Dirty Carnival",
+         "Language":"Korean",
+         "Country":"South Korea",
+         "Year":2006,
+         "Genre":"Crime / Gangster",
+         "Duration":141
+      },
+      {
+         "Movie Name":"A Perfect 14",
+         "Language":"English",
+         "Country":"Canada",
+         "Year":2018,
+         "Genre":"Documentary",
+         "Duration":105
+      },
+      {
+         "Movie Name":"A Quiet Place",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2018,
+         "Genre":"Horror",
+         "Duration":90
+      },
+      {
+         "Movie Name":"A Separation",
+         "Language":"Persian",
+         "Country":"Iran",
+         "Year":2011,
+         "Genre":"Drama",
+         "Duration":123
+      },
+      {
+         "Movie Name":"A Walk To Remember",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2002,
+         "Genre":"Romance",
+         "Duration":101
+      },
+      {
+         "Movie Name":"A.I. Artificial Intelligence",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2001,
+         "Genre":"Science Fiction",
+         "Duration":146
+      },
+      {
+         "Movie Name":"Aanandham",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2016,
+         "Genre":"Romance",
+         "Duration":120
+      },
+      {
+         "Movie Name":"Aayirathil Oruvan",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2010,
+         "Genre":"Adventure",
+         "Duration":183
+      },
+      {
+         "Movie Name":"ABCD: American-Born Confused Desi",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2013,
+         "Genre":"Comedy",
+         "Duration":166
+      },
+      {
+         "Movie Name":"Abominable",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Animation",
+         "Duration":97
+      },
+      {
+         "Movie Name":"About Time",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":2003,
+         "Genre":"Fantasy",
+         "Duration":124
+      },
+      {
+         "Movie Name":"Adithya Varma",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Romance",
+         "Duration":168
+      },
+      {
+         "Movie Name":"Agent Cody Banks 2",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2004,
+         "Genre":"Comedy",
+         "Duration":100
+      },
+      {
+         "Movie Name":"Ala Vaikuntapuramlo",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Action",
+         "Duration":163
+      },
+      {
+         "Movie Name":"Alaipayuthey",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2000,
+         "Genre":"Romance",
+         "Duration":140
+      },
+      {
+         "Movie Name":"Alita:Battle Angel",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Action",
+         "Duration":122
+      },
+      {
+         "Movie Name":"Amour",
+         "Language":"French",
+         "Country":"Austria",
+         "Year":2012,
+         "Genre":"Drama",
+         "Duration":127
+      },
+      {
+         "Movie Name":"Anacondas The Hunt for the Blood Orchid",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2004,
+         "Genre":"Adventure",
+         "Duration":97
+      },
+      {
+         "Movie Name":"Anbe Sivam",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2003,
+         "Genre":"Drama",
+         "Duration":160
+      },
+      {
+         "Movie Name":"Andhadhun",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Thriller",
+         "Duration":139
+      },
+      {
+         "Movie Name":"Android Kunjappan Version 5.25",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Science Fiction",
+         "Duration":140
+      },
+      {
+         "Movie Name":"Anjaam Pathiraa",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Thriller",
+         "Duration":144
+      },
+      {
+         "Movie Name":"Anjathe",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2008,
+         "Genre":"Thriller",
+         "Duration":185
+      },
+      {
+         "Movie Name":"Annayum Rasoolum",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2013,
+         "Genre":"Drama",
+         "Duration":167
+      },
+      {
+         "Movie Name":"Aranya Kandam",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2011,
+         "Genre":"Crime / Gangster",
+         "Duration":153
+      },
+      {
+         "Movie Name":"Arrival",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2016,
+         "Genre":"Science Fiction",
+         "Duration":116
+      },
+      {
+         "Movie Name":"Artificial Intelligence",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2001,
+         "Genre":"Science Fiction",
+         "Duration":146
+      },
+      {
+         "Movie Name":"Athiran",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Thriller",
+         "Duration":135
+      },
+      {
+         "Movie Name":"Avengers: End Game",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Action",
+         "Duration":181
+      },
+      {
+         "Movie Name":"Avengers:Infinity War",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2018,
+         "Genre":"Action",
+         "Duration":145
+      },
+      {
+         "Movie Name":"Awe",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Thriller",
+         "Duration":150
+      },
+      {
+         "Movie Name":"Ayyappanum Koshiyum",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Action",
+         "Duration":177
+      },
+      {
+         "Movie Name":"Badla",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Thriller",
+         "Duration":118
+      },
+      {
+         "Movie Name":"Bajrangi Bhaijaan",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2015,
+         "Genre":"Comedy",
+         "Duration":163
+      },
+      {
+         "Movie Name":"Ballerina",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2016,
+         "Genre":"Animation",
+         "Duration":89
+      },
+      {
+         "Movie Name":"Bandersnatch",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":2018,
+         "Genre":"Thriller",
+         "Duration":90
+      },
+      {
+         "Movie Name":"Be With You",
+         "Language":"Korean",
+         "Country":"South Korea",
+         "Year":2018,
+         "Genre":"Romance",
+         "Duration":132
+      },
+      {
+         "Movie Name":"Befikre",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2016,
+         "Genre":"Romance",
+         "Duration":130
+      },
+      {
+         "Movie Name":"Before Sunrise",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1995,
+         "Genre":"Romance",
+         "Duration":101
+      },
+      {
+         "Movie Name":"Ben 10: Alien Swarm",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2009,
+         "Genre":"Action",
+         "Duration":69
+      },
+      {
+         "Movie Name":"Bhanumathi",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2017,
+         "Genre":"Romance",
+         "Duration":148
+      },
+      {
+         "Movie Name":"Bheeshma",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Romance",
+         "Duration":153
+      },
+      {
+         "Movie Name":"Big Hero 6",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2014,
+         "Genre":"Animation",
+         "Duration":102
+      },
+      {
+         "Movie Name":"Bigil",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Action",
+         "Duration":179
+      },
+      {
+         "Movie Name":"Birds of Prey",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2020,
+         "Genre":"Action",
+         "Duration":109
+      },
+      {
+         "Movie Name":"Black Swan",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2010,
+         "Genre":"Thriller",
+         "Duration":108
+      },
+      {
+         "Movie Name":"Blind",
+         "Language":"Korean",
+         "Country":"South Korea",
+         "Year":2011,
+         "Genre":"Thriller",
+         "Duration":111
+      },
+      {
+         "Movie Name":"Blue Is The Warmest Color",
+         "Language":"French",
+         "Country":"France",
+         "Year":2013,
+         "Genre":"Romance",
+         "Duration":180
+      },
+      {
+         "Movie Name":"Boyka",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2016,
+         "Genre":"Action",
+         "Duration":85
+      },
+      {
+         "Movie Name":"Bruce Almighty",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2003,
+         "Genre":"Comedy",
+         "Duration":101
+      },
+      {
+         "Movie Name":"Burning",
+         "Language":"Korean",
+         "Country":"South Korea",
+         "Year":2018,
+         "Genre":"Drama",
+         "Duration":148
+      },
+      {
+         "Movie Name":"C'est la Vie!",
+         "Language":"French",
+         "Country":"France",
+         "Year":2017,
+         "Genre":"Comedy",
+         "Duration":117
+      },
+      {
+         "Movie Name":"Capharnaum",
+         "Language":"Arabic",
+         "Country":"Lebanon",
+         "Year":2018,
+         "Genre":"Drama",
+         "Duration":126
+      },
+      {
+         "Movie Name":"Captain America: Civil War",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2016,
+         "Genre":"Action",
+         "Duration":147
+      },
+      {
+         "Movie Name":"Captain Marvel",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Action",
+         "Duration":123
+      },
+      {
+         "Movie Name":"Care Of Kancharapalem",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Drama",
+         "Duration":143
+      },
+      {
+         "Movie Name":"Casino",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1995,
+         "Genre":"Crime / Gangster",
+         "Duration":178
+      },
+      {
+         "Movie Name":"Catch Me If You Can",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2002,
+         "Genre":"Crime / Gangster",
+         "Duration":141
+      },
+      {
+         "Movie Name":"Central Station",
+         "Language":"Portuguese",
+         "Country":"Brazil",
+         "Year":1998,
+         "Genre":"Drama",
+         "Duration":115
+      },
+      {
+         "Movie Name":"Charlie",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2015,
+         "Genre":"Drama",
+         "Duration":130
+      },
+      {
+         "Movie Name":"Charlie's Angels",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Action",
+         "Duration":118
+      },
+      {
+         "Movie Name":"Chhapakk",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Drama",
+         "Duration":120
+      },
+      {
+         "Movie Name":"Chhichhore",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":143
+      },
+      {
+         "Movie Name":"Chitram",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":1988,
+         "Genre":"Comedy",
+         "Duration":159
+      },
+      {
+         "Movie Name":"Cinema Paradiso",
+         "Language":"Italian",
+         "Country":"Italy",
+         "Year":1988,
+         "Genre":"Drama",
+         "Duration":124
+      },
+      {
+         "Movie Name":"City of God",
+         "Language":"Portuguese",
+         "Country":"Brazil",
+         "Year":2002,
+         "Genre":"Crime / Gangster",
+         "Duration":130
+      },
+      {
+         "Movie Name":"CJ7",
+         "Language":"Chinese",
+         "Country":"China",
+         "Year":2008,
+         "Genre":"Drama",
+         "Duration":88
+      },
+      {
+         "Movie Name":"Closer",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2004,
+         "Genre":"Romance",
+         "Duration":104
+      },
+      {
+         "Movie Name":"Coach Carter",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2005,
+         "Genre":"Drama",
+         "Duration":136
+      },
+      {
+         "Movie Name":"Coco",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2017,
+         "Genre":"Animation",
+         "Duration":105
+      },
+      {
+         "Movie Name":"Cold Eyes",
+         "Language":"Korean",
+         "Country":"South Korea",
+         "Year":2013,
+         "Genre":"Thriller",
+         "Duration":119
+      },
+      {
+         "Movie Name":"Confessions",
+         "Language":"Japanese",
+         "Country":"Japan",
+         "Year":2010,
+         "Genre":"Thriller",
+         "Duration":106
+      },
+      {
+         "Movie Name":"Contagion",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2011,
+         "Genre":"Thriller",
+         "Duration":106
+      },
+      {
+         "Movie Name":"Countdown",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Horror",
+         "Duration":90
+      },
+      {
+         "Movie Name":"Court",
+         "Language":"Marathi",
+         "Country":"India",
+         "Year":2014,
+         "Genre":"Drama",
+         "Duration":116
+      },
+      {
+         "Movie Name":"Crazy Rich Asians",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2018,
+         "Genre":"Romance",
+         "Duration":120
+      },
+      {
+         "Movie Name":"Cyberbully",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":2015,
+         "Genre":"Thriller",
+         "Duration":62
+      },
+      {
+         "Movie Name":"Darbar",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Action",
+         "Duration":159
+      },
+      {
+         "Movie Name":"Dead Poets Society",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1989,
+         "Genre":"Drama",
+         "Duration":128
+      },
+      {
+         "Movie Name":"Dead Silence",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2007,
+         "Genre":"Thriller",
+         "Duration":89
+      },
+      {
+         "Movie Name":"Dear Comrade",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Action",
+         "Duration":169
+      },
+      {
+         "Movie Name":"Dear Zindagi",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2016,
+         "Genre":"Drama",
+         "Duration":151
+      },
+      {
+         "Movie Name":"Devar Magan",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":1992,
+         "Genre":"Drama",
+         "Duration":145
+      },
+      {
+         "Movie Name":"Dhanusu Raasi Neyargale",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Comedy",
+         "Duration":121
+      },
+      {
+         "Movie Name":"Dharala Prabhu",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Comedy",
+         "Duration":145
+      },
+      {
+         "Movie Name":"Dia",
+         "Language":"Kannada",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Romance",
+         "Duration":136
+      },
+      {
+         "Movie Name":"Diary of a Nymphomaniac",
+         "Language":"Spanish",
+         "Country":"Spain",
+         "Year":2008,
+         "Genre":"Drama",
+         "Duration":95
+      },
+      {
+         "Movie Name":"Do Little",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2020,
+         "Genre":"Adventure",
+         "Duration":101
+      },
+      {
+         "Movie Name":"Doctor Sleep",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Fantasy",
+         "Duration":152
+      },
+      {
+         "Movie Name":"Doctor Strange",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2016,
+         "Genre":"Action",
+         "Duration":115
+      },
+      {
+         "Movie Name":"Dolphin Tale 2",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2014,
+         "Genre":"Drama",
+         "Duration":107
+      },
+      {
+         "Movie Name":"Don't Breathe",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2016,
+         "Genre":"Horror",
+         "Duration":88
+      },
+      {
+         "Movie Name":"Draupathi",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Drama",
+         "Duration":159
+      },
+      {
+         "Movie Name":"Dumbo",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Adventure",
+         "Duration":112
+      },
+      {
+         "Movie Name":"Dwaraka",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2017,
+         "Genre":"Romance",
+         "Duration":143
+      },
+      {
+         "Movie Name":"Easy A",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2010,
+         "Genre":"Comedy",
+         "Duration":92
+      },
+      {
+         "Movie Name":"Eat Pray Love",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2010,
+         "Genre":"Drama",
+         "Duration":140
+      },
+      {
+         "Movie Name":"Edge Of Tomorrow",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2014,
+         "Genre":"Science Fiction",
+         "Duration":113
+      },
+      {
+         "Movie Name":"Enai Noki Paayum Thotta",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Romance",
+         "Duration":153
+      },
+      {
+         "Movie Name":"Enakkul Oruvan",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2015,
+         "Genre":"Thriller",
+         "Duration":136
+      },
+      {
+         "Movie Name":"Enga Chinna Rasa",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":1987,
+         "Genre":"Drama",
+         "Duration":167
+      },
+      {
+         "Movie Name":"Erin Brockovich",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2000,
+         "Genre":"Drama",
+         "Duration":130
+      },
+      {
+         "Movie Name":"Escape Plan",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2013,
+         "Genre":"Thriller",
+         "Duration":115
+      },
+      {
+         "Movie Name":"Eternal Sunshine of the Spotless Mind",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2004,
+         "Genre":"Romance",
+         "Duration":108
+      },
+      {
+         "Movie Name":"Everything Everything",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2017,
+         "Genre":"Romance",
+         "Duration":96
+      },
+      {
+         "Movie Name":"Ex Machina",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":2014,
+         "Genre":"Science Fiction",
+         "Duration":108
+      },
+      {
+         "Movie Name":"Exam",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":2009,
+         "Genre":"Thriller",
+         "Duration":101
+      },
+      {
+         "Movie Name":"Exit",
+         "Language":"Korean",
+         "Country":"South Korea",
+         "Year":2019,
+         "Genre":"Action",
+         "Duration":104
+      },
+      {
+         "Movie Name":"Fandry",
+         "Language":"Marathi",
+         "Country":"India",
+         "Year":2013,
+         "Genre":"Drama",
+         "Duration":105
+      },
+      {
+         "Movie Name":"Fantastic Mr.Fox",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2009,
+         "Genre":"Animation",
+         "Duration":87
+      },
+      {
+         "Movie Name":"Ferdinand",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2017,
+         "Genre":"Animation",
+         "Duration":108
+      },
+      {
+         "Movie Name":"Fight Club",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1999,
+         "Genre":"Thriller",
+         "Duration":139
+      },
+      {
+         "Movie Name":"Final Destination 5",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2011,
+         "Genre":"Thriller",
+         "Duration":92
+      },
+      {
+         "Movie Name":"Five Feet Apart",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Romance",
+         "Duration":116
+      },
+      {
+         "Movie Name":"Ford vs Ferrari",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":152
+      },
+      {
+         "Movie Name":"Forrest Gump",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1994,
+         "Genre":"Drama",
+         "Duration":142
+      },
+      {
+         "Movie Name":"Freedom Writers",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2007,
+         "Genre":"Drama",
+         "Duration":123
+      },
+      {
+         "Movie Name":"Frozen",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2013,
+         "Genre":"Animation",
+         "Duration":102
+      },
+      {
+         "Movie Name":"Frozen II",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Animation",
+         "Duration":103
+      },
+      {
+         "Movie Name":"Full Out",
+         "Language":"English",
+         "Country":"Canada",
+         "Year":2015,
+         "Genre":"Drama",
+         "Duration":90
+      },
+      {
+         "Movie Name":"Game Over",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Thriller",
+         "Duration":102
+      },
+      {
+         "Movie Name":"Gang Leader",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Action",
+         "Duration":155
+      },
+      {
+         "Movie Name":"Gangs of Wasseypur Part 1",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2012,
+         "Genre":"Crime / Gangster",
+         "Duration":160
+      },
+      {
+         "Movie Name":"Gangs of Wasseypur Part 2",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2012,
+         "Genre":"Crime / Gangster",
+         "Duration":159
+      },
+      {
+         "Movie Name":"Gantumoote",
+         "Language":"Kannada",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":115
+      },
+      {
+         "Movie Name":"Geetha Govindam",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Romance",
+         "Duration":148
+      },
+      {
+         "Movie Name":"Gentle Man",
+         "Language":"Tamil ",
+         "Country":"India",
+         "Year":1993,
+         "Genre":"Action",
+         "Duration":155
+      },
+      {
+         "Movie Name":"Get Out",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2017,
+         "Genre":"Horror",
+         "Duration":104
+      },
+      {
+         "Movie Name":"Gifted",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2017,
+         "Genre":"Drama",
+         "Duration":101
+      },
+      {
+         "Movie Name":"Goal The Dream Begins",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":2005,
+         "Genre":"Drama",
+         "Duration":118
+      },
+      {
+         "Movie Name":"Gone Girl",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2014,
+         "Genre":"Thriller",
+         "Duration":149
+      },
+      {
+         "Movie Name":"Good Newz",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Comedy",
+         "Duration":134
+      },
+      {
+         "Movie Name":"Goodfellas",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1990,
+         "Genre":"Crime / Gangster",
+         "Duration":146
+      },
+      {
+         "Movie Name":"Grave Of The Fireflies",
+         "Language":"Japanese",
+         "Country":"Japan",
+         "Year":1988,
+         "Genre":"Animation",
+         "Duration":89
+      },
+      {
+         "Movie Name":"Gully Boy",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Musical",
+         "Duration":153
+      },
+      {
+         "Movie Name":"Gundu",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":141
+      },
+      {
+         "Movie Name":"Gypsy",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Drama",
+         "Duration":145
+      },
+      {
+         "Movie Name":"Heart Attack",
+         "Language":"Thai",
+         "Country":"Thailand",
+         "Year":2015,
+         "Genre":"Drama",
+         "Duration":132
+      },
+      {
+         "Movie Name":"Helen",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Thriller",
+         "Duration":117
+      },
+      {
+         "Movie Name":"Hello",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2017,
+         "Genre":"Romance",
+         "Duration":131
+      },
+      {
+         "Movie Name":"Her",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2013,
+         "Genre":"Science Fiction",
+         "Duration":126
+      },
+      {
+         "Movie Name":"Hereditary",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2018,
+         "Genre":"Horror",
+         "Duration":127
+      },
+      {
+         "Movie Name":"Hero",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Action",
+         "Duration":164
+      },
+      {
+         "Movie Name":"Hey Ram",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2000,
+         "Genre":"Drama",
+         "Duration":186
+      },
+      {
+         "Movie Name":"High School Musical",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2006,
+         "Genre":"Musical",
+         "Duration":98
+      },
+      {
+         "Movie Name":"Hindi Medium",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2017,
+         "Genre":"Comedy",
+         "Duration":132
+      },
+      {
+         "Movie Name":"His Highness Abdullah",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":1990,
+         "Genre":"Musical",
+         "Duration":150
+      },
+      {
+         "Movie Name":"HIT: The First Case",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Thriller",
+         "Duration":125
+      },
+      {
+         "Movie Name":"Honeyland",
+         "Language":"Turkish",
+         "Country":"Macedonia",
+         "Year":2019,
+         "Genre":"Documentary",
+         "Duration":89
+      },
+      {
+         "Movie Name":"How to be Single",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2016,
+         "Genre":"Romance",
+         "Duration":110
+      },
+      {
+         "Movie Name":"How to Train Your Dragon",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2010,
+         "Genre":"Animation",
+         "Duration":98
+      },
+      {
+         "Movie Name":"Hugo",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2011,
+         "Genre":"Adventure",
+         "Duration":129
+      },
+      {
+         "Movie Name":"Identity",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2003,
+         "Genre":"Thriller",
+         "Duration":151
+      },
+      {
+         "Movie Name":"Igloo",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Romance",
+         "Duration":138
+      },
+      {
+         "Movie Name":"Ikiru",
+         "Language":"Japanese",
+         "Country":"Japan",
+         "Year":1952,
+         "Genre":"Drama",
+         "Duration":143
+      },
+      {
+         "Movie Name":"In the Mood for Love",
+         "Language":"Cantonese",
+         "Country":"Hong Kong",
+         "Year":2000,
+         "Genre":"Drama",
+         "Duration":98
+      },
+      {
+         "Movie Name":"Incendies",
+         "Language":"French",
+         "Country":"Canada",
+         "Year":2010,
+         "Genre":"Drama",
+         "Duration":131
+      },
+      {
+         "Movie Name":"Inception",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2010,
+         "Genre":"Thriller",
+         "Duration":148
+      },
+      {
+         "Movie Name":"Infected",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2013,
+         "Genre":"Horror",
+         "Duration":95
+      },
+      {
+         "Movie Name":"Inferno",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2016,
+         "Genre":"Thriller",
+         "Duration":121
+      },
+      {
+         "Movie Name":"Innocent Witness",
+         "Language":"Korean",
+         "Country":"South Korea",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":130
+      },
+      {
+         "Movie Name":"Inside Out",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2015,
+         "Genre":"Animation",
+         "Duration":95
+      },
+      {
+         "Movie Name":"Interstellar",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2014,
+         "Genre":"Thriller",
+         "Duration":169
+      },
+      {
+         "Movie Name":"Into the Wild",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2007,
+         "Genre":"Adventure",
+         "Duration":148
+      },
+      {
+         "Movie Name":"Ivan's Childhood",
+         "Language":"Russian",
+         "Country":"Russia",
+         "Year":1962,
+         "Genre":"War",
+         "Duration":97
+      },
+      {
+         "Movie Name":"Jaanu",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Drama",
+         "Duration":151
+      },
+      {
+         "Movie Name":"Jackpot",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Comedy",
+         "Duration":142
+      },
+      {
+         "Movie Name":"Jacob's Ladder",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1990,
+         "Genre":"Horror",
+         "Duration":113
+      },
+      {
+         "Movie Name":"Jersey",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":157
+      },
+      {
+         "Movie Name":"Jiivi",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Thriller",
+         "Duration":122
+      },
+      {
+         "Movie Name":"Joint Security Area",
+         "Language":"Korean",
+         "Country":"South Korea",
+         "Year":2000,
+         "Genre":"Thriller",
+         "Duration":110
+      },
+      {
+         "Movie Name":"Jojo Rabbit",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Comedy",
+         "Duration":108
+      },
+      {
+         "Movie Name":"Joker",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":122
+      },
+      {
+         "Movie Name":"Julie & Julia",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2009,
+         "Genre":"Comedy",
+         "Duration":123
+      },
+      {
+         "Movie Name":"Jumanji : Welcome to the Jungle",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2017,
+         "Genre":"Adventure",
+         "Duration":119
+      },
+      {
+         "Movie Name":"K.G.F.: Chapter 1",
+         "Language":"Kannada",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Action",
+         "Duration":170
+      },
+      {
+         "Movie Name":"K2: The Killer Summit",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":2014,
+         "Genre":"Documentary",
+         "Duration":80
+      },
+      {
+         "Movie Name":"Kaalidas",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Action",
+         "Duration":126
+      },
+      {
+         "Movie Name":"Kaatrin Mozhi",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Drama",
+         "Duration":148
+      },
+      {
+         "Movie Name":"Kadaram Kondan",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Action",
+         "Duration":130
+      },
+      {
+         "Movie Name":"Kaithi",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Action",
+         "Duration":150
+      },
+      {
+         "Movie Name":"Kali",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2016,
+         "Genre":"Thriller",
+         "Duration":115
+      },
+      {
+         "Movie Name":"Kalyana Agathigal",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":1985,
+         "Genre":"Drama",
+         "Duration":148
+      },
+      {
+         "Movie Name":"Kannathil Muthamittal",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2002,
+         "Genre":"Drama",
+         "Duration":123
+      },
+      {
+         "Movie Name":"Kannum Kannum Kollaiyadithaal",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Comedy",
+         "Duration":160
+      },
+      {
+         "Movie Name":"Kavaludaari",
+         "Language":"Kannada",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Thriller",
+         "Duration":143
+      },
+      {
+         "Movie Name":"KD (a) Karuppu Durai",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":123
+      },
+      {
+         "Movie Name":"Kee",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Thriller",
+         "Duration":138
+      },
+      {
+         "Movie Name":"Klaus",
+         "Language":"English",
+         "Country":"Spain",
+         "Year":2019,
+         "Genre":"Animation",
+         "Duration":96
+      },
+      {
+         "Movie Name":"Knives Out",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Thriller",
+         "Duration":130
+      },
+      {
+         "Movie Name":"Ko2",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2016,
+         "Genre":"Thriller",
+         "Duration":124
+      },
+      {
+         "Movie Name":"Koode",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Drama",
+         "Duration":155
+      },
+      {
+         "Movie Name":"Kumbalangi Nights",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":135
+      },
+      {
+         "Movie Name":"Kung Fu Yoga",
+         "Language":"Mandarin",
+         "Country":"China",
+         "Year":2017,
+         "Genre":"Adventure",
+         "Duration":107
+      },
+      {
+         "Movie Name":"Kuruthipunal",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":1995,
+         "Genre":"Thriller",
+         "Duration":143
+      },
+      {
+         "Movie Name":"Lady Bird",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2017,
+         "Genre":"Drama",
+         "Duration":94
+      },
+      {
+         "Movie Name":"Lady Vengeance",
+         "Language":"Korean",
+         "Country":"South Korea",
+         "Year":2005,
+         "Genre":"Thriller",
+         "Duration":115
+      },
+      {
+         "Movie Name":"Life Is Beautiful",
+         "Language":"English",
+         "Country":"Italy",
+         "Year":1997,
+         "Genre":"Comedy",
+         "Duration":122
+      },
+      {
+         "Movie Name":"Little Big Master",
+         "Language":"Cantonese",
+         "Country":"Hong Kong",
+         "Year":2015,
+         "Genre":"Drama",
+         "Duration":112
+      },
+      {
+         "Movie Name":"Little Manhattan",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2005,
+         "Genre":"Romance",
+         "Duration":90
+      },
+      {
+         "Movie Name":"Little Women",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":135
+      },
+      {
+         "Movie Name":"Love Action Drama",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Comedy",
+         "Duration":146
+      },
+      {
+         "Movie Name":"Love Mocktail",
+         "Language":"Kannada",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Romance",
+         "Duration":153
+      },
+      {
+         "Movie Name":"Loveyatri",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Romance",
+         "Duration":140
+      },
+      {
+         "Movie Name":"Lucifer",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Action",
+         "Duration":174
+      },
+      {
+         "Movie Name":"Lucy",
+         "Language":"English",
+         "Country":"France",
+         "Year":2014,
+         "Genre":"Science Fiction",
+         "Duration":89
+      },
+      {
+         "Movie Name":"Lust Caution",
+         "Language":"Mandarin",
+         "Country":"Taiwan",
+         "Year":2007,
+         "Genre":"Thriller",
+         "Duration":157
+      },
+      {
+         "Movie Name":"M.S.Dhoni The Untold Story",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2016,
+         "Genre":"Drama",
+         "Duration":184
+      },
+      {
+         "Movie Name":"Maanagaram",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2017,
+         "Genre":"Action",
+         "Duration":137
+      },
+      {
+         "Movie Name":"Maari",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2015,
+         "Genre":"Action",
+         "Duration":138
+      },
+      {
+         "Movie Name":"Mad Max: Fury Road",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2015,
+         "Genre":"Action",
+         "Duration":120
+      },
+      {
+         "Movie Name":"Mafia",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Action",
+         "Duration":113
+      },
+      {
+         "Movie Name":"Mahanadhi",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":1994,
+         "Genre":"Drama",
+         "Duration":162
+      },
+      {
+         "Movie Name":"Mahanubhavudu",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2017,
+         "Genre":"Comedy",
+         "Duration":151
+      },
+      {
+         "Movie Name":"Maleficent",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2014,
+         "Genre":"Fantasy",
+         "Duration":97
+      },
+      {
+         "Movie Name":"Maleficent : Mistress of Evil",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Fantasy",
+         "Duration":119
+      },
+      {
+         "Movie Name":"Marley & Me",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2008,
+         "Genre":"Comedy",
+         "Duration":115
+      },
+      {
+         "Movie Name":"Marriage Story",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":137
+      },
+      {
+         "Movie Name":"Mary Kom",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2014,
+         "Genre":"Drama",
+         "Duration":122
+      },
+      {
+         "Movie Name":"Maska",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Drama",
+         "Duration":111
+      },
+      {
+         "Movie Name":"Mathu Vadalara",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Thriller",
+         "Duration":130
+      },
+      {
+         "Movie Name":"Matilda",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1996,
+         "Genre":"Comedy",
+         "Duration":98
+      },
+      {
+         "Movie Name":"Me Before You",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2016,
+         "Genre":"Romance",
+         "Duration":111
+      },
+      {
+         "Movie Name":"Mechanic: Resurrection",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2016,
+         "Genre":"Action",
+         "Duration":98
+      },
+      {
+         "Movie Name":"Meet the Robinsons",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2007,
+         "Genre":"Animation",
+         "Duration":102
+      },
+      {
+         "Movie Name":"Mehandi Circus",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Romance",
+         "Duration":135
+      },
+      {
+         "Movie Name":"Memento",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2000,
+         "Genre":"Thriller",
+         "Duration":114
+      },
+      {
+         "Movie Name":"Memories of Murder",
+         "Language":"Korean",
+         "Country":"South Korea",
+         "Year":2003,
+         "Genre":"Thriller",
+         "Duration":132
+      },
+      {
+         "Movie Name":"Merku Thodarchi Malai",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Drama",
+         "Duration":122
+      },
+      {
+         "Movie Name":"Metro",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2016,
+         "Genre":"Thriller",
+         "Duration":119
+      },
+      {
+         "Movie Name":"Minions",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2015,
+         "Genre":"Animation",
+         "Duration":91
+      },
+      {
+         "Movie Name":"Miracle in Cell No-7",
+         "Language":"Korean",
+         "Country":"South Korea",
+         "Year":2013,
+         "Genre":"Comedy",
+         "Duration":127
+      },
+      {
+         "Movie Name":"Mirage",
+         "Language":"Spanish",
+         "Country":"Spain",
+         "Year":2018,
+         "Genre":"Thriller",
+         "Duration":128
+      },
+      {
+         "Movie Name":"Mirai",
+         "Language":"Japanese",
+         "Country":"Japan",
+         "Year":2018,
+         "Genre":"Animation",
+         "Duration":98
+      },
+      {
+         "Movie Name":"Mission Mangal",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":127
+      },
+      {
+         "Movie Name":"Moana",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2016,
+         "Genre":"Animation",
+         "Duration":107
+      },
+      {
+         "Movie Name":"Moondram Pirai",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":1982,
+         "Genre":"Drama",
+         "Duration":143
+      },
+      {
+         "Movie Name":"Moonlight",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2016,
+         "Genre":"Drama",
+         "Duration":111
+      },
+      {
+         "Movie Name":"Mother",
+         "Language":"Korean",
+         "Country":"South Korea",
+         "Year":2009,
+         "Genre":"Drama",
+         "Duration":128
+      },
+      {
+         "Movie Name":"Mouna Ragam",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":1986,
+         "Genre":"Drama",
+         "Duration":146
+      },
+      {
+         "Movie Name":"Mozhi",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2007,
+         "Genre":"Drama",
+         "Duration":155
+      },
+      {
+         "Movie Name":"Mumbai Police",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2013,
+         "Genre":"Thriller",
+         "Duration":145
+      },
+      {
+         "Movie Name":"My Week With Marilyn",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":2011,
+         "Genre":"Drama",
+         "Duration":101
+      },
+      {
+         "Movie Name":"Naadodigal 2",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Drama",
+         "Duration":136
+      },
+      {
+         "Movie Name":"Naan Sirithaal",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Comedy",
+         "Duration":137
+      },
+      {
+         "Movie Name":"Nandhalala",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2010,
+         "Genre":"Drama",
+         "Duration":125
+      },
+      {
+         "Movie Name":"Nasir",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Drama",
+         "Duration":85
+      },
+      {
+         "Movie Name":"Natale a Cinque Stelle",
+         "Language":"Italian",
+         "Country":"Italy",
+         "Year":2018,
+         "Genre":"Comedy",
+         "Duration":100
+      },
+      {
+         "Movie Name":"National Treasure",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2004,
+         "Genre":"Adventure",
+         "Duration":131
+      },
+      {
+         "Movie Name":"National Treasure : Book of Secrets",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2007,
+         "Genre":"Adventure",
+         "Duration":124
+      },
+      {
+         "Movie Name":"Natsamrat",
+         "Language":"Marathi",
+         "Country":"India",
+         "Year":2016,
+         "Genre":"Drama",
+         "Duration":166
+      },
+      {
+         "Movie Name":"Navarathri",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":1964,
+         "Genre":"Drama",
+         "Duration":163
+      },
+      {
+         "Movie Name":"Nayagan",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":1987,
+         "Genre":"Crime / Gangster",
+         "Duration":156
+      },
+      {
+         "Movie Name":"Neerja",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2016,
+         "Genre":"Thriller",
+         "Duration":122
+      },
+      {
+         "Movie Name":"Newton",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2017,
+         "Genre":"Comedy",
+         "Duration":106
+      },
+      {
+         "Movie Name":"Night at the Museum",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2006,
+         "Genre":"Comedy",
+         "Duration":104
+      },
+      {
+         "Movie Name":"Night at the Museum : Battle of the Smithsonian",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2009,
+         "Genre":"Comedy",
+         "Duration":105
+      },
+      {
+         "Movie Name":"Nightcrawler",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2014,
+         "Genre":"Thriller",
+         "Duration":147
+      },
+      {
+         "Movie Name":"Nil Battey Sannata",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2015,
+         "Genre":"Drama",
+         "Duration":104
+      },
+      {
+         "Movie Name":"Njan Prakashan",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Comedy",
+         "Duration":131
+      },
+      {
+         "Movie Name":"Nobody Knows",
+         "Language":"Japanese",
+         "Country":"Japan",
+         "Year":2004,
+         "Genre":"Drama",
+         "Duration":141
+      },
+      {
+         "Movie Name":"Not One Less",
+         "Language":"Chinese",
+         "Country":"China",
+         "Year":1999,
+         "Genre":"Drama",
+         "Duration":106
+      },
+      {
+         "Movie Name":"NOTA",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Drama",
+         "Duration":145
+      },
+      {
+         "Movie Name":"Oh Baby",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Fantasy",
+         "Duration":161
+      },
+      {
+         "Movie Name":"Oh My Kadavulae",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Romance",
+         "Duration":151
+      },
+      {
+         "Movie Name":"Oh Ramona",
+         "Language":"English",
+         "Country":"Romania",
+         "Year":2019,
+         "Genre":"Comedy",
+         "Duration":109
+      },
+      {
+         "Movie Name":"Okko's Inn",
+         "Language":"Japanese",
+         "Country":"Japan",
+         "Year":2018,
+         "Genre":"Animation",
+         "Duration":94
+      },
+      {
+         "Movie Name":"Old Boy",
+         "Language":"Korean",
+         "Country":"South Korea",
+         "Year":2003,
+         "Genre":"Action",
+         "Duration":101
+      },
+      {
+         "Movie Name":"Om Shanthi Oshana",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2014,
+         "Genre":"Romance",
+         "Duration":136
+      },
+      {
+         "Movie Name":"Onaayum Aattukkuttiyum",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2013,
+         "Genre":"Thriller",
+         "Duration":142
+      },
+      {
+         "Movie Name":"Onward",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2020,
+         "Genre":"Animation",
+         "Duration":102
+      },
+      {
+         "Movie Name":"Otha Serupu Size 7",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Thriller",
+         "Duration":120
+      },
+      {
+         "Movie Name":"Our Little Sister",
+         "Language":"Japanese",
+         "Country":"Japan",
+         "Year":2015,
+         "Genre":"Drama",
+         "Duration":126
+      },
+      {
+         "Movie Name":"Pad Man",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Drama",
+         "Duration":140
+      },
+      {
+         "Movie Name":"Panic",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2018,
+         "Genre":"Documentary",
+         "Duration":96
+      },
+      {
+         "Movie Name":"Paradesi",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2013,
+         "Genre":"Drama",
+         "Duration":126
+      },
+      {
+         "Movie Name":"Parasite",
+         "Language":"Korean",
+         "Country":"South Korea",
+         "Year":2019,
+         "Genre":"Thriller",
+         "Duration":132
+      },
+      {
+         "Movie Name":"Parava",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2017,
+         "Genre":"Drama",
+         "Duration":147
+      },
+      {
+         "Movie Name":"Passengers",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2016,
+         "Genre":"Science Fiction",
+         "Duration":96
+      },
+      {
+         "Movie Name":"Pattas",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Action",
+         "Duration":141
+      },
+      {
+         "Movie Name":"Pazhani",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2008,
+         "Genre":"Action",
+         "Duration":154
+      },
+      {
+         "Movie Name":"Penguin",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Thriller",
+         "Duration":132
+      },
+      {
+         "Movie Name":"Penmani Aval Kanmani",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":1988,
+         "Genre":"Comedy",
+         "Duration":147
+      },
+      {
+         "Movie Name":"Peppermint Candy",
+         "Language":"Korean",
+         "Country":"South Korea",
+         "Year":1999,
+         "Genre":"Drama",
+         "Duration":135
+      },
+      {
+         "Movie Name":"Phantom Thread",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2017,
+         "Genre":"Drama",
+         "Duration":131
+      },
+      {
+         "Movie Name":"Phone Booth",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2002,
+         "Genre":"Thriller",
+         "Duration":81
+      },
+      {
+         "Movie Name":"Pisasu",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2014,
+         "Genre":"Horror",
+         "Duration":114
+      },
+      {
+         "Movie Name":"Pokemon Detective Pikachu",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Animation",
+         "Duration":104
+      },
+      {
+         "Movie Name":"Polladhavan",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":1980,
+         "Genre":"Thriller",
+         "Duration":135
+      },
+      {
+         "Movie Name":"Ponmagal Vandhaal",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Drama",
+         "Duration":120
+      },
+      {
+         "Movie Name":"Portrait of a Lady on Fire",
+         "Language":"French",
+         "Country":"France",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":120
+      },
+      {
+         "Movie Name":"Princess And The Pony",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2011,
+         "Genre":"Adventure",
+         "Duration":90
+      },
+      {
+         "Movie Name":"PS I Love You",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2007,
+         "Genre":"Romance",
+         "Duration":126
+      },
+      {
+         "Movie Name":"Psycho",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Horror",
+         "Duration":109
+      },
+      {
+         "Movie Name":"Psycho",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1960,
+         "Genre":"Horror",
+         "Duration":109
+      },
+      {
+         "Movie Name":"Raavanan",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2010,
+         "Genre":"Action",
+         "Duration":137
+      },
+      {
+         "Movie Name":"Raazi",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Thriller",
+         "Duration":140
+      },
+      {
+         "Movie Name":"Rab Ne Bana Di Jodi",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2008,
+         "Genre":"Romance",
+         "Duration":164
+      },
+      {
+         "Movie Name":"Ralph Breaks the Internet",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2018,
+         "Genre":"Animation",
+         "Duration":112
+      },
+      {
+         "Movie Name":"Rangasthalam",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Action",
+         "Duration":174
+      },
+      {
+         "Movie Name":"Rashomon",
+         "Language":"Japanese",
+         "Country":"Japan",
+         "Year":1950,
+         "Genre":"Thriller",
+         "Duration":88
+      },
+      {
+         "Movie Name":"Ratchasi",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":134
+      },
+      {
+         "Movie Name":"Ratsasan",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Thriller",
+         "Duration":145
+      },
+      {
+         "Movie Name":"Ready Player One",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2018,
+         "Genre":"Science Fiction",
+         "Duration":140
+      },
+      {
+         "Movie Name":"Rockford",
+         "Language":"English",
+         "Country":"India",
+         "Year":1999,
+         "Genre":"Drama",
+         "Duration":102
+      },
+      {
+         "Movie Name":"Rough Night",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2017,
+         "Genre":"Comedy",
+         "Duration":101
+      },
+      {
+         "Movie Name":"Saamy Square",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Action",
+         "Duration":156
+      },
+      {
+         "Movie Name":"Sairat",
+         "Language":"Marathi",
+         "Country":"India",
+         "Year":2016,
+         "Genre":"Drama",
+         "Duration":174
+      },
+      {
+         "Movie Name":"Sanam Theri Kasam",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2016,
+         "Genre":"Romance",
+         "Duration":154
+      },
+      {
+         "Movie Name":"Sarileruku neekevvaru",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Action",
+         "Duration":169
+      },
+      {
+         "Movie Name":"Sarvam Thala Mayam",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Musical",
+         "Duration":131
+      },
+      {
+         "Movie Name":"Savarakathi",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Comedy",
+         "Duration":115
+      },
+      {
+         "Movie Name":"Saving Private Ryan",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1998,
+         "Genre":"War",
+         "Duration":170
+      },
+      {
+         "Movie Name":"Scary Movie",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2000,
+         "Genre":"Comedy",
+         "Duration":88
+      },
+      {
+         "Movie Name":"Searching",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2018,
+         "Genre":"Thriller",
+         "Duration":102
+      },
+      {
+         "Movie Name":"Sethum Aayiram Pon",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":102
+      },
+      {
+         "Movie Name":"Seven",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1995,
+         "Genre":"Thriller",
+         "Duration":127
+      },
+      {
+         "Movie Name":"Seven Samurai",
+         "Language":"Japanese",
+         "Country":"Japan",
+         "Year":1954,
+         "Genre":"Drama",
+         "Duration":207
+      },
+      {
+         "Movie Name":"Seven Years in Tibet",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1997,
+         "Genre":"Adventure",
+         "Duration":136
+      },
+      {
+         "Movie Name":"Shaun of the Dead",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":2004,
+         "Genre":"Horror",
+         "Duration":99
+      },
+      {
+         "Movie Name":"Shazam",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Action",
+         "Duration":132
+      },
+      {
+         "Movie Name":"Sherlock Holmes",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2009,
+         "Genre":"Action",
+         "Duration":129
+      },
+      {
+         "Movie Name":"Shoplifters",
+         "Language":"Japanese",
+         "Country":"Japan",
+         "Year":2018,
+         "Genre":"Drama",
+         "Duration":121
+      },
+      {
+         "Movie Name":"Shutter Island",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2010,
+         "Genre":"Thriller",
+         "Duration":139
+      },
+      {
+         "Movie Name":"Sigappu Manjal Pachai",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Action",
+         "Duration":142
+      },
+      {
+         "Movie Name":"Sila Samayangalil",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Drama",
+         "Duration":110
+      },
+      {
+         "Movie Name":"Silenced",
+         "Language":"Korean",
+         "Country":"South Korea",
+         "Year":2011,
+         "Genre":"Drama",
+         "Duration":125
+      },
+      {
+         "Movie Name":"Sillu Karupatti",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Romance",
+         "Duration":153
+      },
+      {
+         "Movie Name":"Sindhu Bhairavi",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":1985,
+         "Genre":"Drama",
+         "Duration":159
+      },
+      {
+         "Movie Name":"Sita",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Romance",
+         "Duration":162
+      },
+      {
+         "Movie Name":"Solo",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2017,
+         "Genre":"Drama",
+         "Duration":154
+      },
+      {
+         "Movie Name":"Sonic",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2020,
+         "Genre":"Comedy",
+         "Duration":99
+      },
+      {
+         "Movie Name":"Spies in Disguise",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Animation",
+         "Duration":102
+      },
+      {
+         "Movie Name":"Spirited Away",
+         "Language":"Japanese",
+         "Country":"Japan",
+         "Year":2001,
+         "Genre":"Animation",
+         "Duration":125
+      },
+      {
+         "Movie Name":"Spotlight",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2015,
+         "Genre":"Drama",
+         "Duration":129
+      },
+      {
+         "Movie Name":"Star Wars: The Last Jedi",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2017,
+         "Genre":"Science Fiction",
+         "Duration":152
+      },
+      {
+         "Movie Name":"Star Wars: The Rise Of Skywalker",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Science Fiction",
+         "Duration":142
+      },
+      {
+         "Movie Name":"Storks",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2016,
+         "Genre":"Animation",
+         "Duration":100
+      },
+      {
+         "Movie Name":"Subramaniapuram",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2008,
+         "Genre":"Drama",
+         "Duration":160
+      },
+      {
+         "Movie Name":"Sully: Miracle on the Hudson",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2016,
+         "Genre":"Drama",
+         "Duration":96
+      },
+      {
+         "Movie Name":"Super 30",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":155
+      },
+      {
+         "Movie Name":"Super 8",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2011,
+         "Genre":"Science Fiction",
+         "Duration":112
+      },
+      {
+         "Movie Name":"Super Deluxe",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Comedy",
+         "Duration":176
+      },
+      {
+         "Movie Name":"Survival Family",
+         "Language":"Japanese",
+         "Country":"Japan",
+         "Year":2016,
+         "Genre":"Drama",
+         "Duration":117
+      },
+      {
+         "Movie Name":"Suryakantham",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":121
+      },
+      {
+         "Movie Name":"Suttu Pidika Utharavu",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Action",
+         "Duration":114
+      },
+      {
+         "Movie Name":"Sympathy for Mr.Vengeance",
+         "Language":"Korean",
+         "Country":"South Korea",
+         "Year":2002,
+         "Genre":"Thriller",
+         "Duration":121
+      },
+      {
+         "Movie Name":"Taare Zameen Par",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2007,
+         "Genre":"Drama",
+         "Duration":165
+      },
+      {
+         "Movie Name":"Taken",
+         "Language":"English",
+         "Country":"France",
+         "Year":2008,
+         "Genre":"Thriller",
+         "Duration":93
+      },
+      {
+         "Movie Name":"Tamasha",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2015,
+         "Genre":"Romance",
+         "Duration":139
+      },
+      {
+         "Movie Name":"Taxi Driver",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1976,
+         "Genre":"Drama",
+         "Duration":114
+      },
+      {
+         "Movie Name":"Terminator: Dark Fate",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Science Fiction",
+         "Duration":128
+      },
+      {
+         "Movie Name":"Thalapathi",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":1991,
+         "Genre":"Drama",
+         "Duration":167
+      },
+      {
+         "Movie Name":"Thambi",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Action",
+         "Duration":165
+      },
+      {
+         "Movie Name":"Thambiku Entha Ooru",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":1984,
+         "Genre":"Drama",
+         "Duration":136
+      },
+      {
+         "Movie Name":"Thanneer Mathan Dinangal",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":137
+      },
+      {
+         "Movie Name":"Thappad",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Drama",
+         "Duration":142
+      },
+      {
+         "Movie Name":"The Artist",
+         "Language":"French",
+         "Country":"France",
+         "Year":2011,
+         "Genre":"Drama",
+         "Duration":114
+      },
+      {
+         "Movie Name":"The Avengers",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2012,
+         "Genre":"Action",
+         "Duration":143
+      },
+      {
+         "Movie Name":"The Breakfast Club",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1985,
+         "Genre":"Comedy",
+         "Duration":97
+      },
+      {
+         "Movie Name":"The Bucket List",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2007,
+         "Genre":"Comedy",
+         "Duration":97
+      },
+      {
+         "Movie Name":"The Chronicles of Narnia: Prince Caspian",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":2008,
+         "Genre":"Fantasy",
+         "Duration":150
+      },
+      {
+         "Movie Name":"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":2005,
+         "Genre":"Fantasy",
+         "Duration":145
+      },
+      {
+         "Movie Name":"The Chronicles of Narnia: The Voyage of the Dawn Treader",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":2010,
+         "Genre":"Fantasy",
+         "Duration":115
+      },
+      {
+         "Movie Name":"The Cloverfield Paradox",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2018,
+         "Genre":"Science Fiction",
+         "Duration":102
+      },
+      {
+         "Movie Name":"The Coffin in the Mountain",
+         "Language":"Chinese",
+         "Country":"China",
+         "Year":2014,
+         "Genre":"Drama",
+         "Duration":109
+      },
+      {
+         "Movie Name":"The Conjuring 2",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2016,
+         "Genre":"Horror",
+         "Duration":134
+      },
+      {
+         "Movie Name":"The Curious Case of Benjamin Button",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2008,
+         "Genre":"Fantasy",
+         "Duration":166
+      },
+      {
+         "Movie Name":"The Da Vinci Code",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2006,
+         "Genre":"Thriller",
+         "Duration":149
+      },
+      {
+         "Movie Name":"The Darkest Hour",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":2017,
+         "Genre":"War",
+         "Duration":125
+      },
+      {
+         "Movie Name":"The Dictator",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":2012,
+         "Genre":"Comedy",
+         "Duration":99
+      },
+      {
+         "Movie Name":"The Edge of Seventeen",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2016,
+         "Genre":"Drama",
+         "Duration":104
+      },
+      {
+         "Movie Name":"The English Surgeon",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":2007,
+         "Genre":"Documentary",
+         "Duration":93
+      },
+      {
+         "Movie Name":"The Extraordinary Journey of the Fakir",
+         "Language":"English",
+         "Country":"France",
+         "Year":2018,
+         "Genre":"Adventure",
+         "Duration":100
+      },
+      {
+         "Movie Name":"The Fault in our Stars",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2014,
+         "Genre":"Romance",
+         "Duration":133
+      },
+      {
+         "Movie Name":"The Favourite",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":2018,
+         "Genre":"Comedy",
+         "Duration":121
+      },
+      {
+         "Movie Name":"The Florida Project",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2017,
+         "Genre":"Drama",
+         "Duration":115
+      },
+      {
+         "Movie Name":"The Garden of Words",
+         "Language":"Japanese",
+         "Country":"Japan",
+         "Year":2013,
+         "Genre":"Animation",
+         "Duration":46
+      },
+      {
+         "Movie Name":"The Gentlemen",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Action",
+         "Duration":113
+      },
+      {
+         "Movie Name":"The Godfather",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1972,
+         "Genre":"Crime / Gangster",
+         "Duration":178
+      },
+      {
+         "Movie Name":"The Good Dinosaur",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2015,
+         "Genre":"Animation",
+         "Duration":93
+      },
+      {
+         "Movie Name":"The Great Debaters",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2007,
+         "Genre":"Drama",
+         "Duration":126
+      },
+      {
+         "Movie Name":"The Green Mile",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1999,
+         "Genre":"Drama",
+         "Duration":189
+      },
+      {
+         "Movie Name":"The Hangover",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2009,
+         "Genre":"Comedy",
+         "Duration":108
+      },
+      {
+         "Movie Name":"The Hangover Part-2",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2011,
+         "Genre":"Comedy",
+         "Duration":102
+      },
+      {
+         "Movie Name":"The Help",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2011,
+         "Genre":"Drama",
+         "Duration":146
+      },
+      {
+         "Movie Name":"The Hundred Foot Journey",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2014,
+         "Genre":"Drama",
+         "Duration":124
+      },
+      {
+         "Movie Name":"The Hunt",
+         "Language":"Danish",
+         "Country":"Denmark",
+         "Year":2012,
+         "Genre":"Drama",
+         "Duration":115
+      },
+      {
+         "Movie Name":"The Hustle",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Comedy",
+         "Duration":93
+      },
+      {
+         "Movie Name":"The Intern",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2015,
+         "Genre":"Comedy",
+         "Duration":121
+      },
+      {
+         "Movie Name":"The Invisible Guest",
+         "Language":"Spanish",
+         "Country":"Spain",
+         "Year":2016,
+         "Genre":"Thriller",
+         "Duration":106
+      },
+      {
+         "Movie Name":"The Irishman",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Crime / Gangster",
+         "Duration":209
+      },
+      {
+         "Movie Name":"The Kite Runner",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2007,
+         "Genre":"Drama",
+         "Duration":128
+      },
+      {
+         "Movie Name":"The Lighthouse",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":110
+      },
+      {
+         "Movie Name":"The Lion King",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Musical",
+         "Duration":118
+      },
+      {
+         "Movie Name":"The Lunchbox",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2013,
+         "Genre":"Drama",
+         "Duration":104
+      },
+      {
+         "Movie Name":"The Martian",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2015,
+         "Genre":"Science Fiction",
+         "Duration":151
+      },
+      {
+         "Movie Name":"The Notebook",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2004,
+         "Genre":"Romance",
+         "Duration":124
+      },
+      {
+         "Movie Name":"The Peanut Butter Falcon",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Adventure",
+         "Duration":97
+      },
+      {
+         "Movie Name":"The Perfect Date",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Romance",
+         "Duration":89
+      },
+      {
+         "Movie Name":"The Perks of Being a Wallflower",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2012,
+         "Genre":"Drama",
+         "Duration":103
+      },
+      {
+         "Movie Name":"The Pianist",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2002,
+         "Genre":"War",
+         "Duration":150
+      },
+      {
+         "Movie Name":"The Post",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2017,
+         "Genre":"Drama",
+         "Duration":117
+      },
+      {
+         "Movie Name":"The Prestige",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2006,
+         "Genre":"Thriller",
+         "Duration":130
+      },
+      {
+         "Movie Name":"The Princess and the Matchmaker",
+         "Language":"Korean",
+         "Country":"South Korea",
+         "Year":2018,
+         "Genre":"Comedy",
+         "Duration":110
+      },
+      {
+         "Movie Name":"The Pursuit of Happyness",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2006,
+         "Genre":"Drama",
+         "Duration":117
+      },
+      {
+         "Movie Name":"The Report",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":119
+      },
+      {
+         "Movie Name":"The Salesman",
+         "Language":"Persian",
+         "Country":"Iran",
+         "Year":2016,
+         "Genre":"Drama",
+         "Duration":124
+      },
+      {
+         "Movie Name":"The Secret Life Of Pets",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2016,
+         "Genre":"Animation",
+         "Duration":87
+      },
+      {
+         "Movie Name":"The Secret Life Of Pets 2",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Animation",
+         "Duration":86
+      },
+      {
+         "Movie Name":"The Shape of Water",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2017,
+         "Genre":"Romance",
+         "Duration":123
+      },
+      {
+         "Movie Name":"The Shawshank Redemption",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1994,
+         "Genre":"Drama",
+         "Duration":142
+      },
+      {
+         "Movie Name":"The Silence",
+         "Language":"Marathi",
+         "Country":"India",
+         "Year":2015,
+         "Genre":"Drama",
+         "Duration":91
+      },
+      {
+         "Movie Name":"The Sixth Sense",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1999,
+         "Genre":"Thriller",
+         "Duration":110
+      },
+      {
+         "Movie Name":"The Sky is Pink",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":143
+      },
+      {
+         "Movie Name":"The Social Network",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2010,
+         "Genre":"Drama",
+         "Duration":121
+      },
+      {
+         "Movie Name":"The Sorcerers Apprentice",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2010,
+         "Genre":"Fantasy",
+         "Duration":109
+      },
+      {
+         "Movie Name":"The Terminal",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2004,
+         "Genre":"Comedy",
+         "Duration":128
+      },
+      {
+         "Movie Name":"The Theory of Everything",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2014,
+         "Genre":"Drama",
+         "Duration":123
+      },
+      {
+         "Movie Name":"The Truman Show",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1998,
+         "Genre":"Comedy",
+         "Duration":103
+      },
+      {
+         "Movie Name":"The Twilight Saga: Eclipse",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2010,
+         "Genre":"Fantasy",
+         "Duration":123
+      },
+      {
+         "Movie Name":"The Twilight Saga: New Moon",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2009,
+         "Genre":"Fantasy",
+         "Duration":130
+      },
+      {
+         "Movie Name":"The Two Popes",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":126
+      },
+      {
+         "Movie Name":"The Water Horse:Legend Of The Deep",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2007,
+         "Genre":"Fantasy",
+         "Duration":112
+      },
+      {
+         "Movie Name":"The Wind Rises",
+         "Language":"Japanese",
+         "Country":"Japan",
+         "Year":2013,
+         "Genre":"Animation",
+         "Duration":126
+      },
+      {
+         "Movie Name":"Theevandi",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Drama",
+         "Duration":143
+      },
+      {
+         "Movie Name":"Thimiru pudichavan",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Action",
+         "Duration":156
+      },
+      {
+         "Movie Name":"To All The Boys I've Loved Before",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2018,
+         "Genre":"Romance",
+         "Duration":99
+      },
+      {
+         "Movie Name":"To All The Boys: P.S. I Still Love You",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2020,
+         "Genre":"Romance",
+         "Duration":102
+      },
+      {
+         "Movie Name":"Toni Erdmann",
+         "Language":"English",
+         "Country":"Germany",
+         "Year":2016,
+         "Genre":"Comedy",
+         "Duration":162
+      },
+      {
+         "Movie Name":"Trance",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Drama",
+         "Duration":170
+      },
+      {
+         "Movie Name":"Tumbbad",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Horror",
+         "Duration":104
+      },
+      {
+         "Movie Name":"Twilight",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2008,
+         "Genre":"Fantasy",
+         "Duration":121
+      },
+      {
+         "Movie Name":"The Twilight Saga: Breaking Dawn 2",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2008,
+         "Genre":"Fantasy",
+         "Duration":115
+      },
+      {
+         "Movie Name":"Uncut Gems",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Thriller",
+         "Duration":135
+      },
+      {
+         "Movie Name":"Upgrade",
+         "Language":"English",
+         "Country":"Australia",
+         "Year":2018,
+         "Genre":"Horror",
+         "Duration":100
+      },
+      {
+         "Movie Name":"Ustaad Hotel",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2012,
+         "Genre":"Drama",
+         "Duration":151
+      },
+      {
+         "Movie Name":"Uttama Villain",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2015,
+         "Genre":"Drama",
+         "Duration":171
+      },
+      {
+         "Movie Name":"Uyare",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":125
+      },
+      {
+         "Movie Name":"V1",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Thriller",
+         "Duration":112
+      },
+      {
+         "Movie Name":"Vaaiyai Moodi Pesavum",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2014,
+         "Genre":"Comedy",
+         "Duration":140
+      },
+      {
+         "Movie Name":"Vaanam Kottatum",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Drama",
+         "Duration":150
+      },
+      {
+         "Movie Name":"Varane Avashyamund",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Comedy",
+         "Duration":145
+      },
+      {
+         "Movie Name":"Vattaram",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2006,
+         "Genre":"Crime / Gangster",
+         "Duration":165
+      },
+      {
+         "Movie Name":"Village Rockstars",
+         "Language":"Assamese",
+         "Country":"India",
+         "Year":2017,
+         "Genre":"Drama",
+         "Duration":87
+      },
+      {
+         "Movie Name":"Virus",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Thriller",
+         "Duration":152
+      },
+      {
+         "Movie Name":"Visaranai",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2015,
+         "Genre":"Crime / Gangster",
+         "Duration":118
+      },
+      {
+         "Movie Name":"Wadjda",
+         "Language":"Arabic",
+         "Country":"Saudi Arabia",
+         "Year":2012,
+         "Genre":"Drama",
+         "Duration":98
+      },
+      {
+         "Movie Name":"Wall-E",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2008,
+         "Genre":"Animation",
+         "Duration":98
+      },
+      {
+         "Movie Name":"We are the Millers",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2013,
+         "Genre":"Comedy",
+         "Duration":110
+      },
+      {
+         "Movie Name":"When Marnie was there",
+         "Language":"Japanese",
+         "Country":"Japan",
+         "Year":2014,
+         "Genre":"Animation",
+         "Duration":103
+      },
+      {
+         "Movie Name":"Whiplash",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2014,
+         "Genre":"Drama",
+         "Duration":107
+      },
+      {
+         "Movie Name":"Whisper of the Heart",
+         "Language":"Japanese",
+         "Country":"Japan",
+         "Year":1995,
+         "Genre":"Animation",
+         "Duration":111
+      },
+      {
+         "Movie Name":"World Famous Lover",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2020,
+         "Genre":"Romance",
+         "Duration":154
+      },
+      {
+         "Movie Name":"You've Got Mail",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1998,
+         "Genre":"Romance",
+         "Duration":119
+      },
+      {
+         "Movie Name":"Your Name",
+         "Language":"Japanese",
+         "Country":"Japan",
+         "Year":2016,
+         "Genre":"Animation",
+         "Duration":106
+      },
+      {
+         "Movie Name":"Zathura A Space Adventure",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2005,
+         "Genre":"Adventure",
+         "Duration":101
+      },
+      {
+         "Movie Name":"Zindagi Na Milegi Dobara",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2011,
+         "Genre":"Adventure",
+         "Duration":155
+      },
+      {
+         "Movie Name":"Zodiac",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2007,
+         "Genre":"Thriller",
+         "Duration":157
+      },
+      {
+         "Movie Name":"Yeh Jawaani Hai Deewani",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2013,
+         "Genre":"Romance",
+         "Duration":159
+      },
+      {
+         "Movie Name":"The Twilight Saga: Breaking Dawn 1",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2011,
+         "Genre":"Fantasy",
+         "Duration":117
+      },
+      {
+         "Movie Name":"Pihu",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Thriller",
+         "Duration":90
+      },
+      {
+         "Movie Name":"Anjali",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":1990,
+         "Genre":"Drama",
+         "Duration":155
+      },
+      {
+         "Movie Name":"Roja",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":1992,
+         "Genre":"Thriller",
+         "Duration":137
+      },
+      {
+         "Movie Name":"Iruvar",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":1997,
+         "Genre":"Drama",
+         "Duration":158
+      },
+      {
+         "Movie Name":"Take Off",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2017,
+         "Genre":"Thriller",
+         "Duration":139
+      },
+      {
+         "Movie Name":"Sudani From Nigeria",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Drama",
+         "Duration":124
+      },
+      {
+         "Movie Name":"Gold",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Drama",
+         "Duration":151
+      },
+      {
+         "Movie Name":"Pannaiyarum Padminiyum",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2014,
+         "Genre":"Drama",
+         "Duration":152
+      },
+      {
+         "Movie Name":"Feel the Beat",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2020,
+         "Genre":"Drama",
+         "Duration":107
+      },
+      {
+         "Movie Name":"Boyhood",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2014,
+         "Genre":"Drama",
+         "Duration":165
+      },
+      {
+         "Movie Name":"The Girl Who Leapt Through Time",
+         "Language":"Japanese",
+         "Country":"Japan",
+         "Year":2006,
+         "Genre":"Animation",
+         "Duration":98
+      },
+      {
+         "Movie Name":"The Imitation Game",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":2014,
+         "Genre":"Drama",
+         "Duration":114
+      },
+      {
+         "Movie Name":"Generation Iron 2",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2017,
+         "Genre":"Documentary",
+         "Duration":106
+      },
+      {
+         "Movie Name":"Generation Iron 3",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2018,
+         "Genre":"Documentary",
+         "Duration":95
+      },
+      {
+         "Movie Name":"Calum Von Moger:Unbroken",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Documentary",
+         "Duration":95
+      },
+      {
+         "Movie Name":" Ronaldo",
+         "Language":"English",
+         "Country":"United Kingdom",
+         "Year":2015,
+         "Genre":"Documentary",
+         "Duration":102
+      },
+      {
+         "Movie Name":"Mundina Nildana",
+         "Language":"Kannada",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Comedy",
+         "Duration":106
+      },
+      {
+         "Movie Name":"The Sun Is Also a Star",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":100
+      },
+      {
+         "Movie Name":"English Vinglish",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2012,
+         "Genre":"Comedy",
+         "Duration":134
+      },
+      {
+         "Movie Name":"Inglourious Basterds",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2009,
+         "Genre":"War",
+         "Duration":153
+      },
+      {
+         "Movie Name":"Prisoners",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2013,
+         "Genre":"Thriller",
+         "Duration":153
+      },
+      {
+         "Movie Name":"Good Will Hunting",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1997,
+         "Genre":"Drama",
+         "Duration":126
+      },
+      {
+         "Movie Name":"The Call",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2013,
+         "Genre":"Thriller",
+         "Duration":96
+      },
+      {
+         "Movie Name":"Iraivi",
+         "Language":"Tamil",
+         "Country":"India",
+         "Year":2016,
+         "Genre":"Drama",
+         "Duration":160
+      },
+      {
+         "Movie Name":"Pulp Fiction",
+         "Language":"English",
+         "Country":"United States",
+         "Year":1994,
+         "Genre":"Crime / Gangster",
+         "Duration":154
+      },
+      {
+         "Movie Name":"The Motorcycle Diaries",
+         "Language":"Spanish",
+         "Country":"South America",
+         "Year":2004,
+         "Genre":"Adventure",
+         "Duration":126
+      },
+      {
+         "Movie Name":"Varathan",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2018,
+         "Genre":"Thriller",
+         "Duration":130
+      },
+      {
+         "Movie Name":"Seirra Burgess is a Loser",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2018,
+         "Genre":"Comedy",
+         "Duration":95
+      },
+      {
+         "Movie Name":"The Blind Side",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2009,
+         "Genre":"Drama",
+         "Duration":129
+      },
+      {
+         "Movie Name":"Tinkerbell",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2008,
+         "Genre":"Animation",
+         "Duration":78
+      },
+      {
+         "Movie Name":"Richard Jewell",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":131
+      },
+      {
+         "Movie Name":"Pelli Choopulu",
+         "Language":"Telugu",
+         "Country":"India",
+         "Year":2016,
+         "Genre":"Comedy",
+         "Duration":118
+      },
+      {
+         "Movie Name":"El Camino",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Thriller",
+         "Duration":122
+      },
+      {
+         "Movie Name":"Moothon",
+         "Language":"Malayalam",
+         "Country":"India",
+         "Year":2019,
+         "Genre":"Action",
+         "Duration":110
+      },
+      {
+         "Movie Name":"The Art of Racing in the Rain",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2019,
+         "Genre":"Drama",
+         "Duration":109
+      },
+      {
+         "Movie Name":"The Namesake",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2006,
+         "Genre":"Drama",
+         "Duration":121
+      },
+      {
+         "Movie Name":"Chakde! India",
+         "Language":"Hindi",
+         "Country":"India",
+         "Year":2007,
+         "Genre":"Drama",
+         "Duration":153
+      },
+      {
+         "Movie Name":"The Incredibles",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2004,
+         "Genre":"Animation",
+         "Duration":115
+      },
+      {
+         "Movie Name":"Room",
+         "Language":"English",
+         "Country":"Canada",
+         "Year":2015,
+         "Genre":"Thriller",
+         "Duration":118
+      },
+      {
+         "Movie Name":"The Little Prince",
+         "Language":"English",
+         "Country":"France",
+         "Year":2015,
+         "Genre":"Animation",
+         "Duration":110
+      },
+      {
+         "Movie Name":"Isle of Dogs",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2018,
+         "Genre":"Animation",
+         "Duration":105
+      },
+      {
+         "Movie Name":"Bird Box",
+         "Language":"English",
+         "Country":"United States",
+         "Year":2018,
+         "Genre":"Horror",
+         "Duration":124
+      },
+      {
+         "Movie Name":"Always",
+         "Language":"Korean",
+         "Country":"South Korea",
+         "Year":2011,
+         "Genre":"Drama",
+         "Duration":106
+      }
+   ]
+}
