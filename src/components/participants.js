@@ -35,7 +35,7 @@ import ParticipantsData from './participant.json';
           }, 
         ],
         rows: 
-            ParticipantsData    
+            ParticipantsData.participants   
       };
     
       class Participants extends Component {

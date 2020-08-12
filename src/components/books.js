@@ -44,7 +44,7 @@ import BooksData from './books.json';
         width: 150
       }
     ],
-    rows: BooksData
+    rows: BooksData.books
   };
   class Book extends Component {
     render() {

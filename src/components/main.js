@@ -16,11 +16,20 @@ import Charts from './charts';
 
 const Main = () => (
   <Switch>
-     <Route path="/about_us" component={AboutUs} /> 
+     {/* <Route path="/about_us" component={AboutUs} />  */}
      <Route path="/movies" component={Movies} /> 
-     <Route path="/participants" component={Participants} />
+      <Route path="/participants" component={Participants} /> 
      <Route path="/books" component={Books} />  
+     <Route path="/winners" component={Winners} /> 
      <Route path="/charts" component={Charts} />
+     <Route path="/june" component={() => {  
+     window.location.href = 'https://ceg-acxions.github.io/2020challenge/stats/june.html';  
+      return null; 
+ }}/> 
+ <Route path="/july" component={() => {  
+     window.location.href = 'https://ceg-acxions.github.io/2020challenge/stats/july.html';  
+      return null; 
+ }}/> 
   </Switch>
 )
 

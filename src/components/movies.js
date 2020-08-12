@@ -9,42 +9,42 @@ import MoviesData from './movie.json';
     columns: [
       {
         label: 'Movie Name',
-        field: 'Movie Name',
+        field: 'movie_name',
         sort: 'asc',
         width: 200
       },
       {
         label: 'Language',
-        field: 'Language',
+        field: 'language',
         sort: 'asc',
       },
       {
         label: 'Country',
-        field: 'Country',
+        field: 'country',
         sort: 'asc',
         width: 200
       },
       {
         label: 'Year',
-        field: 'Year',
+        field: 'year',
         sort: 'asc',
         width: 100
       },
       {
         label: 'Genre',
-        field: 'Genre',
+        field: 'genre',
         sort: 'asc',
         width: 150
       },
       {
         label: 'Duration',
-        field: 'Duration',
+        field: 'duration',
         sort: 'asc',
         width: 100
       }
     ],
     rows: 
-      MoviesData   
+      MoviesData.movie
   };
 
   class Movies extends Component {
